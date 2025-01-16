@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 //using лаба_11.classes;
 using libr;
 using libr2;
+//я не знаю почему названия папок такие
 
 namespace laba_11
 {
