@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>лаба_10</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="libr">
+      <HintPath>Новая папка\libr.dll</HintPath>
+    </Reference>
+    <Reference Include="libr2">
+      <HintPath>Новая папка\libr2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
